@@ -1,0 +1,2 @@
+#Makes sure system files aren't uploaded
+.DS_Store
